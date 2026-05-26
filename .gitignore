@@ -23,3 +23,11 @@ application.properties
 # Spring local configs
 backend/src/main/resources/application.properties
 backend/src/main/resources/application-local.properties
+# Maven build output
+backend/target/
+target/
+
+# Environment files
+.env
+.env.local
+.env.production
